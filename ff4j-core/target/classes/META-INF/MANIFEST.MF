@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ff4j-core
+Implementation-Version: 1.0
+Built-By: Wayne
+Implementation-Vendor-Id: com.uob.ff4j
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/ff4j-core/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
